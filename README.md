@@ -1,10 +1,10 @@
 <h1 align="left">👋 Hi there, I'm Caíque Soares Silva!</h1>
 
 <p align="left">
-I'm a <b>Brazilian Software Developer</b> currently in my final semester of <b>Systems Analysis and Development</b> at <i>Universidade Braz Cubas (Cruzeiro do Sul)</i>.
-At 26 years old, I’m building a strong foundation in <b>Java</b> and shaping my path toward becoming a skilled <b>Back-End Developer</b>.
+I'm a <b>Brazilian Software Developer</b> with a degree in Systems Analysis and Development, focused on building structured, scalable, and well-designed software solutions.
+My main technical focus is Backend Java and object-oriented programming (OOP), with practical experience developing REST-based applications, applying clean code principles, and working with Git-based workflows. 
+I also have foundational knowledge of Kotlin and Python and continuously expand my skills through hands-on projects and structured learning.
 
-My next goal? To dive into <b>Kotlin</b> and bring powerful, modern mobile experiences to life.
 I’m driven by curiosity, constant learning, and the desire to turn complex ideas into elegant, efficient code.
 
 </p>
