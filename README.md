@@ -36,19 +36,6 @@ I’m driven by curiosity, constant learning, and the desire to turn complex ide
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats-seven-dun-17.vercel.app/api?username=caiqso&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img 
-    height="165"
-    src="https://github-readme-stats-seven-dun-17.vercel.app/api/top-langs/?username=caiqso&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats"
-  />
-</p>
-
 ### 🌍 Connect with Me
 ---
 Want to collaborate or learn more about my work? Reach out!
